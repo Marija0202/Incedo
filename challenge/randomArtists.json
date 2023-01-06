@@ -1,0 +1,127 @@
+{
+    "artists": [{
+
+            "artistId": 1,
+            "artistName": "MelanieC"
+
+        },
+
+        {
+            "artistId": 2,
+            "artistName": "Britney Spears"
+
+        },
+        {
+
+            "artistId": 3,
+            "artistName": "Pink Floyd"
+
+        },
+
+        {
+            "artistId": 4,
+            "artistName": "Sia"
+
+        },
+        {
+
+            "artistId": 5,
+            "artistName": "MelanieC"
+
+        },
+
+        {
+            "artistId": 6,
+            "artistName": "Britney Spears"
+
+        },
+        {
+
+            "artistId": 7,
+            "artistName": "Pink Floyd"
+
+        },
+
+        {
+            "artistId": 8,
+            "artistName": "Sia"
+
+        }, {
+
+            "artistId": 9,
+            "artistName": "ArtistName9"
+
+        },
+
+        {
+            "artistId": 10,
+            "artistName": "ArtistName10"
+
+        },
+        {
+
+            "artistId": 11,
+            "artistName": "ArtistName11"
+
+        },
+
+        {
+            "artistId": 12,
+            "artistName": "ArtistName12"
+
+        },
+        {
+
+            "artistId": 13,
+            "artistName": "ArtistName13"
+
+        },
+
+        {
+            "artistId": 14,
+            "artistName": "ArtistName14"
+
+        },
+        {
+
+            "artistId": 15,
+            "artistName": "ArtistName15"
+
+        },
+
+        {
+            "artistId": 16,
+            "artistName": "ArtistName16"
+        },
+        {
+
+            "artistId": 17,
+            "artistName": "ArtistName17"
+
+        },
+
+        {
+            "artistId": 18,
+            "artistName": "ArtistName18"
+
+        },
+        {
+
+            "artistId": 19,
+            "artistName": "ArtistName19"
+
+        },
+
+        {
+            "artistId": 20,
+            "artistName": "ArtistName20"
+
+        }
+
+
+
+
+    ]
+
+
+}
